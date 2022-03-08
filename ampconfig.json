@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.12.0",
+  "appInfo": {
+    "name": "gbb",
+    "description": "",
+    "version": "9pr0fvdy",
+    "id": "cl0iih4jr52204901s6nn4rqfpt",
+    "url": "https://app.amplication.com/cl0iih4jr52204901s6nn4rqfpt",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "gbb",
+      "dbPassword": "12",
+      "dbPort": 3306,
+      "dbUser": "root",
+      "appId": "cl0iih4jr52204901s6nn4rqfpt",
+      "authProvider": "Jwt"
+    }
+  }
+}
